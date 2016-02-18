@@ -1,7 +1,7 @@
 {
   "name": "khaos-patched",
   "repository": "git://github.com/segmentio/khaos.git",
-  "version": "0.9.3",
+  "version": "0.9.4",
   "license": "MIT",
   "description": "Patched khaos that fixes a few bugs",
   "bin": {
